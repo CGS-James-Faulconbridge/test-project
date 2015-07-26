@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        //Debug Reasons
         println("hello World")
     }
 
@@ -22,7 +21,12 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
+    //asdfasdf
+    //asdfasdf
+    //asdfasdf
+    //asdfasdf
+    
 
 }
 
